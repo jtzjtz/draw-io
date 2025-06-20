@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="27.1.6">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="2866" dy="1511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="3751" dy="1987" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-5" target="-n03L4gZZ8u75mCyDfgK-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-n03L4gZZ8u75mCyDfgK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-5" target="-n03L4gZZ8u75mCyDfgK-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -29,16 +26,22 @@
             <mxPoint x="-348" y="-56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-5" target="-n03L4gZZ8u75mCyDfgK-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-5" target="-n03L4gZZ8u75mCyDfgK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="功能模块" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-5">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;container=0;fontSize=25;align=left;" vertex="1" parent="1">
-            <mxGeometry x="306" y="-195" width="209" height="70" as="geometry" />
+            <mxGeometry x="73.5" y="-198" width="209" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="-n03L4gZZ8u75mCyDfgK-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-11" target="-n03L4gZZ8u75mCyDfgK-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="采购管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-11">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=17;" vertex="1" parent="1">
             <mxGeometry x="88" y="-50" width="180" height="39" as="geometry" />
           </mxCell>
         </UserObject>
@@ -46,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="库存管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-17">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=17;" vertex="1" parent="1">
             <mxGeometry x="321" y="-50" width="180" height="41" as="geometry" />
           </mxCell>
         </UserObject>
@@ -54,7 +57,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="运输管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-22">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=17;" vertex="1" parent="1">
             <mxGeometry x="556" y="-53" width="180" height="41" as="geometry" />
           </mxCell>
         </UserObject>
@@ -62,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="客户关系" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-23">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=17;" vertex="1" parent="1">
             <mxGeometry x="770" y="-53" width="180" height="42" as="geometry" />
           </mxCell>
         </UserObject>
@@ -70,133 +73,234 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="系统功能" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-24">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=17;" vertex="1" parent="1">
             <mxGeometry x="974" y="-53" width="180" height="41" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-32" target="-n03L4gZZ8u75mCyDfgK-34">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-32" target="-n03L4gZZ8u75mCyDfgK-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="组织架构" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-32">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="974" y="59" width="180" height="39" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-34" target="-n03L4gZZ8u75mCyDfgK-36">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-34" target="-n03L4gZZ8u75mCyDfgK-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="权限管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-34">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="974" y="177" width="180" height="41" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-36" target="-n03L4gZZ8u75mCyDfgK-38">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-36" target="-n03L4gZZ8u75mCyDfgK-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="流程管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-36">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="974" y="321" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-38" target="-n03L4gZZ8u75mCyDfgK-40">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-38" target="-n03L4gZZ8u75mCyDfgK-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="数据字典" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-38">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="974" y="471" width="180" height="38" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="报表系统" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-40">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="974" y="652" width="180" height="39" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-46" target="-n03L4gZZ8u75mCyDfgK-48">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-46" target="-n03L4gZZ8u75mCyDfgK-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="线索管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-46">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="770" y="59" width="180" height="39" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-48" target="-n03L4gZZ8u75mCyDfgK-50">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-48" target="-n03L4gZZ8u75mCyDfgK-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="商机管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-48">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="770" y="177.5" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-50" target="-n03L4gZZ8u75mCyDfgK-52">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-50" target="-n03L4gZZ8u75mCyDfgK-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="订单管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-50">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="770" y="321.5" width="180" height="39" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="客户管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-52">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="770" y="470" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-54" target="-n03L4gZZ8u75mCyDfgK-56">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-54" target="-n03L4gZZ8u75mCyDfgK-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="车辆管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-54">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="556" y="59" width="180" height="39" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="运单管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-56">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="556" y="177" width="180" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="盘库、调拨" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-58">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="321" y="58.5" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.522;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-58" target="-n03L4gZZ8u75mCyDfgK-62">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.522;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-58" target="-n03L4gZZ8u75mCyDfgK-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="411" y="196" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-62" target="-n03L4gZZ8u75mCyDfgK-64">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-62" target="-n03L4gZZ8u75mCyDfgK-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="出入库" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-62">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="325" y="177.5" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="成本核算" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-64">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="325" y="323" width="180" height="36" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-n03L4gZZ8u75mCyDfgK-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-66" target="-n03L4gZZ8u75mCyDfgK-70">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-66" target="-n03L4gZZ8u75mCyDfgK-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="采购计划" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-66">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="88" y="58.5" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="采购订单" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-70">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="88" y="177.5" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="生产管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-74">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-74" target="-n03L4gZZ8u75mCyDfgK-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="财务管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-74">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=17;" vertex="1" parent="1">
             <mxGeometry x="-174" y="-52" width="180" height="39" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="销售管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-75">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-75" target="-n03L4gZZ8u75mCyDfgK-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="生产管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-75">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=17;" vertex="1" parent="1">
             <mxGeometry x="-428" y="-49" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-76" target="-n03L4gZZ8u75mCyDfgK-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="销售管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-76">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=17;" vertex="1" parent="1">
+            <mxGeometry x="-664" y="-49" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-77" target="-n03L4gZZ8u75mCyDfgK-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="合同管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-77">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-174" y="67" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-79" target="-n03L4gZZ8u75mCyDfgK-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="收付款管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-79">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-174" y="186" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="发票管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-81">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-174" y="305" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-83" target="-n03L4gZZ8u75mCyDfgK-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="生产计划" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-83">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-428" y="70" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-85" target="-n03L4gZZ8u75mCyDfgK-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="生产任务" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-85">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-428" y="189" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-87" target="-n03L4gZZ8u75mCyDfgK-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="物料管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-87">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-428" y="308" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-89" target="-n03L4gZZ8u75mCyDfgK-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="库存管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-89">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-428" y="427" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-91" target="-n03L4gZZ8u75mCyDfgK-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="生产调度" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-91">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-428" y="546" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BOM管理" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-93">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-428" y="665" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-95" target="-n03L4gZZ8u75mCyDfgK-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="销售订单" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-95">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-664" y="70" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-n03L4gZZ8u75mCyDfgK-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-n03L4gZZ8u75mCyDfgK-97" target="-n03L4gZZ8u75mCyDfgK-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="销售出入库" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-97">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-664" y="189" width="180" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="销售计划" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="-n03L4gZZ8u75mCyDfgK-101">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fontSize=15;" vertex="1" parent="1">
+            <mxGeometry x="-664" y="308" width="180" height="39" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
