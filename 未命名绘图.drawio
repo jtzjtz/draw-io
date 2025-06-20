@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UZdIwau76gTkTRf2nX4t-24" value="物料采购单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="467" y="327" width="110" height="40" as="geometry" />
+          <mxGeometry x="467" y="386" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UZdIwau76gTkTRf2nX4t-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UZdIwau76gTkTRf2nX4t-27" target="UZdIwau76gTkTRf2nX4t-28">
           <mxGeometry relative="1" as="geometry" />
@@ -127,7 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UZdIwau76gTkTRf2nX4t-32" value="收货、验货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="467" y="441" width="110" height="40" as="geometry" />
+          <mxGeometry x="467" y="565" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UZdIwau76gTkTRf2nX4t-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UZdIwau76gTkTRf2nX4t-36" target="UZdIwau76gTkTRf2nX4t-39">
           <mxGeometry relative="1" as="geometry" />
