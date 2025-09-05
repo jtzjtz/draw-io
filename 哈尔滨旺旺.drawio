@@ -740,42 +740,49 @@
         <mxCell id="172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;html=1;exitX=0.75;exitY=0;entryX=0.75;entryY=0;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeColor=#23445D;strokeWidth=2;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;fontStyle=0" parent="1" source="27" target="27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=430;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-177">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=430;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=250;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-176">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=250;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=80;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-175">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=80;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-175">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=590;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-185">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="RH_t09FBcoY_n2bVqSQD-185">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="667" y="1560" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="667" y="1560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=960;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-186">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=960;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-186">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=1130;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-189">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=1130;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-189">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=1310;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-190">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=1310;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-190">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=1480;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-191">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=1480;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-172" value="" style="strokeWidth=2;strokeColor=#666666;dashed=0;align=center;html=1;fontSize=8;shape=mxgraph.eip.messageChannel;shadow=0;fillColor=#FFFFFF;gradientColor=none;fontColor=#F08705;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-172" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;工务内部局域网&lt;/font&gt;" style="strokeWidth=2;strokeColor=#666666;dashed=0;align=center;html=1;fontSize=8;shape=mxgraph.eip.messageChannel;shadow=0;fillColor=#FFFFFF;gradientColor=none;fontColor=#F08705;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="60" y="1540" width="1550" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-175" target="RH_t09FBcoY_n2bVqSQD-202">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RH_t09FBcoY_n2bVqSQD-175" value="变电站节点&lt;div&gt;工厂电站和各部门电表自动抄表系统&lt;/div&gt;&lt;div&gt;组态王7.56（512点）&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" vertex="1" parent="1">
           <mxGeometry x="108" y="1701" width="65" height="85" as="geometry" />
         </mxCell>
         <mxCell id="RH_t09FBcoY_n2bVqSQD-176" value="污水站节点&lt;div&gt;污水工控机组态王&lt;/div&gt;&lt;div&gt;SCADA3.71SP1（500点）&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" vertex="1" parent="1">
           <mxGeometry x="278" y="1701" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-177" target="RH_t09FBcoY_n2bVqSQD-204">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RH_t09FBcoY_n2bVqSQD-177" value="锅炉房节点&lt;div&gt;冬季供暖系统工控机&lt;/div&gt;&lt;div&gt;组态王7.53（512点）&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" vertex="1" parent="1">
           <mxGeometry x="458" y="1701" width="65" height="85" as="geometry" />
@@ -798,10 +805,22 @@
         <mxCell id="RH_t09FBcoY_n2bVqSQD-191" value="生成与管理&lt;div&gt;在线设备通讯&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.edgesight_server;" vertex="1" parent="1">
           <mxGeometry x="1502.5" y="1698.5" width="76.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=780;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-178">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=780;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-178">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="1690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-202" value="电表&lt;div&gt;485通讯&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tablet_1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1900" width="61" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-204" value="水表&lt;div&gt;485通讯&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tablet_1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1900" width="61" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-208" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-206" target="RH_t09FBcoY_n2bVqSQD-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-206" value="&lt;div&gt;巨控网关&lt;/div&gt;NET432-CJ（2000个点）" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.remote_office;" vertex="1" parent="1">
+          <mxGeometry x="789" y="1430" width="92" height="41.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
