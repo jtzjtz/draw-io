@@ -229,6 +229,12 @@
         <mxCell id="RH_t09FBcoY_n2bVqSQD-479" value="建设中" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;strokeColor=#23445D;fillColor=#BAC8D3;gradientColor=none;fontSize=21;fontColor=#23445D;fontStyle=1;gradientDirection=north;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1609" y="1120" width="150" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-481" value="网卡1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-483" value="网卡2" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.33;" vertex="1" parent="1">
+          <mxGeometry x="1248" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
