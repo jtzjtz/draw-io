@@ -69,6 +69,11 @@
             <mxPoint x="865" y="836.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-480" value="Mqtt协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RH_t09FBcoY_n2bVqSQD-413">
+          <mxGeometry x="-0.325" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RH_t09FBcoY_n2bVqSQD-414" value="&lt;div&gt;巨控网关&lt;/div&gt;NET432-CJ（2000个点）" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.remote_office;" vertex="1" parent="1">
           <mxGeometry x="819" y="954.5" width="92" height="41.5" as="geometry" />
         </mxCell>
