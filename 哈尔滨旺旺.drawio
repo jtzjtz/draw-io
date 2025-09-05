@@ -22,7 +22,7 @@
         <mxCell id="RH_t09FBcoY_n2bVqSQD-436" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-397" target="RH_t09FBcoY_n2bVqSQD-414">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-397" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;工务内部局域网&lt;/font&gt;" style="strokeWidth=2;strokeColor=#666666;dashed=0;align=center;html=1;fontSize=8;shape=mxgraph.eip.messageChannel;shadow=0;fillColor=#FFFFFF;gradientColor=none;fontColor=#F08705;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-397" value="&lt;font style=&quot;font-size: 15px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;工务内部局域网&lt;/font&gt;" style="strokeWidth=2;strokeColor=#666666;dashed=0;align=center;html=1;fontSize=8;shape=mxgraph.eip.messageChannel;shadow=0;fillColor=#FFFFFF;gradientColor=none;fontColor=#F08705;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="90" y="1063.5" width="1550" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RH_t09FBcoY_n2bVqSQD-399" value="变电站节点&lt;div&gt;工厂电站和各部门电表自动抄表系统&lt;/div&gt;&lt;div&gt;组态王7.56（512点）&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" vertex="1" parent="1">
@@ -116,7 +116,7 @@
         <mxCell id="RH_t09FBcoY_n2bVqSQD-424" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;能碳系统数据采集端&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.netscaler_sdx;" vertex="1" parent="1">
           <mxGeometry x="815" y="808.5" width="100" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="RH_t09FBcoY_n2bVqSQD-425" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;应用层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-425" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;服务层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-40" y="758.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RH_t09FBcoY_n2bVqSQD-429" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=80;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-399" target="RH_t09FBcoY_n2bVqSQD-397">
