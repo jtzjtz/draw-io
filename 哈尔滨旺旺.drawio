@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.2">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,7 +200,7 @@
           <mxGeometry x="552" y="993" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="66" value="" style="strokeWidth=2;strokeColor=#666666;dashed=0;align=center;html=1;fontSize=8;shape=mxgraph.eip.messageChannel;shadow=0;fillColor=#FFFFFF;gradientColor=none;fontColor=#F08705;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="362" y="1095" width="385" height="20" as="geometry" />
+          <mxGeometry x="347.5" y="1240" width="385" height="20" as="geometry" />
         </mxCell>
         <mxCell id="67" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png;shadow=0;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontSize=18;fontColor=#F08705;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1502" y="784" width="80" height="80" as="geometry" />
@@ -719,7 +719,7 @@
         <mxCell id="167" value="HEAD&amp;nbsp;&lt;div&gt;OFFICE&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;shadow=0;fontSize=36;fontColor=#AE4132;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="750" y="649" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="168" value="ENTERPRISE NETWORK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;shadow=0;fontSize=36;fontColor=#AE4132;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="168" value="双成厂数智化系统架构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;shadow=0;fontSize=36;fontColor=#AE4132;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="137" y="15" width="1380" height="45" as="geometry" />
         </mxCell>
         <mxCell id="169" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png;shadow=0;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontSize=18;fontColor=#F08705;fontStyle=0" parent="1" vertex="1">
@@ -739,6 +739,69 @@
         </mxCell>
         <mxCell id="172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;html=1;exitX=0.75;exitY=0;entryX=0.75;entryY=0;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeColor=#23445D;strokeWidth=2;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;fontStyle=0" parent="1" source="27" target="27" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=430;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=250;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=80;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=590;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-185">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="667" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=960;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=1130;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=1310;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=1480;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-172" value="" style="strokeWidth=2;strokeColor=#666666;dashed=0;align=center;html=1;fontSize=8;shape=mxgraph.eip.messageChannel;shadow=0;fillColor=#FFFFFF;gradientColor=none;fontColor=#F08705;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="60" y="1540" width="1550" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-175" value="变电站节点&lt;div&gt;工厂电站和各部门电表自动抄表系统&lt;/div&gt;&lt;div&gt;组态王7.56（512点）&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" vertex="1" parent="1">
+          <mxGeometry x="108" y="1701" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-176" value="污水站节点&lt;div&gt;污水工控机组态王&lt;/div&gt;&lt;div&gt;SCADA3.71SP1（500点）&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" vertex="1" parent="1">
+          <mxGeometry x="278" y="1701" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-177" value="锅炉房节点&lt;div&gt;冬季供暖系统工控机&lt;/div&gt;&lt;div&gt;组态王7.53（512点）&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" vertex="1" parent="1">
+          <mxGeometry x="458" y="1701" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-178" value="锅炉房采暖&lt;div&gt;系统PLC&lt;/div&gt;&lt;div&gt;工控柜&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.chassis;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1691" width="81.34" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-185" value="电表&lt;div&gt;TCP通讯&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.hq_enterprise;" vertex="1" parent="1">
+          <mxGeometry x="621" y="1699.5" width="92" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-186" value="污水站PLC&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;工控柜&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.chassis;" vertex="1" parent="1">
+          <mxGeometry x="979" y="1691" width="81.34" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-189" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;污水在线监测&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TCP通讯&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.hq_enterprise;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="1699.5" width="92" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-190" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;天然气站&lt;/span&gt;&lt;div&gt;气体流量计&lt;/div&gt;&lt;div&gt;485转TCP通讯&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TCP通讯&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.hq_enterprise;" vertex="1" parent="1">
+          <mxGeometry x="1324" y="1699.5" width="92" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-191" value="生成与管理&lt;div&gt;在线设备通讯&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.edgesight_server;" vertex="1" parent="1">
+          <mxGeometry x="1502.5" y="1698.5" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_t09FBcoY_n2bVqSQD-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=780;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RH_t09FBcoY_n2bVqSQD-172" target="RH_t09FBcoY_n2bVqSQD-178">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="1690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
