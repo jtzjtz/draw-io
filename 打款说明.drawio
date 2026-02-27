@@ -56,6 +56,24 @@
         <mxCell id="ysJoa_os7ZU6-ONItsNx-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="把钱转出来，记白条账单" vertex="1">
           <mxGeometry height="30" width="115" x="472" y="940" as="geometry" />
         </mxCell>
+        <mxCell id="ysJoa_os7ZU6-ONItsNx-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;strokeColor=#D73A16;" value="" vertex="1">
+          <mxGeometry height="157" width="606" x="89" y="688" as="geometry" />
+        </mxCell>
+        <mxCell id="ysJoa_os7ZU6-ONItsNx-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;strokeColor=#D73A16;" value="" vertex="1">
+          <mxGeometry height="157" width="309" x="446" y="899" as="geometry" />
+        </mxCell>
+        <mxCell id="ysJoa_os7ZU6-ONItsNx-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;strokeColor=#D73A16;" value="" vertex="1">
+          <mxGeometry height="157" width="309" x="75" y="899" as="geometry" />
+        </mxCell>
+        <mxCell id="ysJoa_os7ZU6-ONItsNx-21" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.83;" value="蒋铁柱转账" vertex="1">
+          <mxGeometry height="59" width="120" x="144" y="884" as="geometry" />
+        </mxCell>
+        <mxCell id="ysJoa_os7ZU6-ONItsNx-22" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.83;" value="郝姨" vertex="1">
+          <mxGeometry height="59" width="120" x="433" y="878" as="geometry" />
+        </mxCell>
+        <mxCell id="ysJoa_os7ZU6-ONItsNx-23" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.83;" value="郝姨开发票" vertex="1">
+          <mxGeometry height="59" width="120" x="184" y="661" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
