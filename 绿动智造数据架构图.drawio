@@ -49,6 +49,57 @@
         <mxCell id="G6vaBTox-RKNiaFK2mBE-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="数据采集层" vertex="1">
           <mxGeometry height="30" width="130" x="260" y="277" as="geometry" />
         </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDF2DC;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="380" width="1080" x="270" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;流计算引擎&lt;/b&gt;&lt;div&gt;&lt;div&gt;Flink&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="350" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;div&gt;&lt;b&gt;离线批处理&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;多源数据融合&lt;/b&gt;&lt;div&gt;关联匹配、时间对齐&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;消息队列&lt;/b&gt;&lt;div&gt;MQ&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="950" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;div&gt;&lt;b&gt;数据路由分发&lt;/b&gt;&lt;/div&gt;&lt;div&gt;按业务领域&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1150" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="数据处理层" vertex="1">
+          <mxGeometry height="30" width="130" x="260" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;实时数据清洗&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;去重、校验、补齐&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="350" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;实时聚合计算&lt;/b&gt;&lt;br&gt;&lt;div&gt;窗口计算、指标汇总&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="350" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;div&gt;&lt;b&gt;实时告警触发&lt;/b&gt;&lt;/div&gt;&lt;div&gt;阀值、规则、联动&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="350" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;数据转换&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;格式转换、单位转换&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="560" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;数据归档&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;压缩、存储&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="560" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;数据血缘追踪&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;来源追溯、影响分析&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="560" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;多源数据融合&lt;/b&gt;&lt;div&gt;关联匹配、时间对齐&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="960" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;数据标准化&lt;/b&gt;&lt;div&gt;编码统一、字典映射&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;主数据管理&lt;/b&gt;&lt;div&gt;统一物料编码&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="G6vaBTox-RKNiaFK2mBE-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBF2B6;strokeColor=#82b366;" value="&lt;b&gt;数据标签体系&lt;/b&gt;&lt;div&gt;业务体系、技术体系&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="730" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
