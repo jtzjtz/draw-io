@@ -1,9 +1,88 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="DcPfCID-89-EZ4Lt0AtV">
-    <mxGraphModel>
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S9F1rkDoKmk00jZlPwef-6" edge="1" parent="1" source="S9F1rkDoKmk00jZlPwef-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;fontStyle=1" target="S9F1rkDoKmk00jZlPwef-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-7" connectable="0" parent="S9F1rkDoKmk00jZlPwef-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontStyle=1" value="交易数据（订单）" vertex="1">
+          <mxGeometry relative="1" x="0.0889" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="财务系统" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-8" edge="1" parent="1" source="S9F1rkDoKmk00jZlPwef-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontStyle=1" target="S9F1rkDoKmk00jZlPwef-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-9" connectable="0" parent="S9F1rkDoKmk00jZlPwef-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontStyle=1" value="产量数据" vertex="1">
+          <mxGeometry relative="1" x="-0.4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;质量系统&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;环保系统&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="634" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-10" edge="1" parent="1" source="S9F1rkDoKmk00jZlPwef-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontStyle=1" target="S9F1rkDoKmk00jZlPwef-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-23" connectable="0" parent="S9F1rkDoKmk00jZlPwef-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontStyle=1" value="能耗数据支撑碳排核算" vertex="1">
+          <mxGeometry relative="1" x="-0.3333" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;能源系统&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-13" edge="1" parent="1" source="S9F1rkDoKmk00jZlPwef-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontStyle=1" target="S9F1rkDoKmk00jZlPwef-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-14" connectable="0" parent="S9F1rkDoKmk00jZlPwef-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontStyle=1" value="碳资产/碳交易服务" vertex="1">
+          <mxGeometry relative="1" x="0.0222" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-20" edge="1" parent="1" source="S9F1rkDoKmk00jZlPwef-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=17;fontStyle=1" target="S9F1rkDoKmk00jZlPwef-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-21" connectable="0" parent="S9F1rkDoKmk00jZlPwef-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontStyle=1" value="碳排统计" vertex="1">
+          <mxGeometry relative="1" x="-0.12" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div&gt;碳排放系统&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="634" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-18" edge="1" parent="1" source="S9F1rkDoKmk00jZlPwef-4" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;fontStyle=1" target="S9F1rkDoKmk00jZlPwef-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="440" />
+              <mxPoint x="250" y="300" />
+            </Array>
+            <mxPoint x="270" y="350" as="sourcePoint" />
+            <mxPoint x="240" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-19" connectable="0" parent="S9F1rkDoKmk00jZlPwef-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontStyle=1" value="能耗成本核算" vertex="1">
+          <mxGeometry relative="1" x="0.04" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=28;" value="北京艾克赛德生物工程有限公司" vertex="1">
+          <mxGeometry height="30" width="490" x="169" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=light-dark(#062ff9, #ededed);strokeWidth=5;" value="" vertex="1">
+          <mxGeometry height="90" width="160" x="310" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="S9F1rkDoKmk00jZlPwef-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#CC0000;" value="现有系统" vertex="1">
+          <mxGeometry height="30" width="60" x="354" y="247" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
