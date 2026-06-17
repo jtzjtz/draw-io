@@ -1,9 +1,459 @@
 <mxfile host="app.diagrams.net">
-  <diagram name="第 1 页" id="Regx-1kuHtN8W6R4dMRD">
-    <mxGraphModel>
+  <diagram name="汽车制造行业智能化能碳管理平台" id="Regx-1kuHtN8W6R4dMRD">
+    <mxGraphModel dx="3378" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zJpfA9pac6PEQL0GheaK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2c3e50;strokeColor=#1a252f;" value="" vertex="1">
+          <mxGeometry height="70" width="1960" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: #ffffff&quot;&gt;汽车制造行业智能化能碳管理平台&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="38" width="500" x="650" y="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2c3e50;strokeColor=#1a252f;" value="" vertex="1">
+          <mxGeometry width="1960" x="20" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#27ae60;strokeColor=#1e8449;" value=" " vertex="1">
+          <mxGeometry height="6" width="20" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-6" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #ffffff&quot;&gt;现有功能&lt;/font&gt;" vertex="1">
+          <mxGeometry height="14" width="55" x="70" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3498db;strokeColor=#2980b9;" value="" vertex="1">
+          <mxGeometry height="6" width="20" x="155" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-8" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #ffffff&quot;&gt;扩展功能&lt;/font&gt;" vertex="1">
+          <mxGeometry height="14" width="55" x="175" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e67e22;strokeColor=#d35400;" value="" vertex="1">
+          <mxGeometry height="6" width="20" x="260" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-10" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #ffffff&quot;&gt;数据采集&lt;/font&gt;" vertex="1">
+          <mxGeometry height="14" width="55" x="285" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9b59b6;strokeColor=#8e44ad;" value="" vertex="1">
+          <mxGeometry height="6" width="20" x="380" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-12" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #ffffff&quot;&gt;AI分析&lt;/font&gt;" vertex="1">
+          <mxGeometry height="14" width="45" x="400" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" value="" vertex="1">
+          <mxGeometry height="6" width="20" x="468" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-14" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #ffffff&quot;&gt;汽车行业专属&lt;/font&gt;" vertex="1">
+          <mxGeometry height="14" width="85" x="498" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef5f5;strokeColor=#e74c3c;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="420" width="630" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-16" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: #c0392b&quot;&gt;汽车行业政策驱动（2026-2027）&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="28" width="310" x="172.5" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-17" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: rgb(192, 57, 43);&quot;&gt;工信部《2026年汽车标准化工作要点》&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="370" x="40" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-18" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #555&quot;&gt;加快汽车产品碳足迹核算、快标准研制；推进电动汽车、动力电池、&lt;br&gt;驱动电机产品碳足迹；整车企业碳排放；零碳工厂建设&lt;/font&gt;" vertex="1">
+          <mxGeometry height="42" width="585" x="40" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-19" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #c0392b&quot;&gt;2026年5月发布&lt;/font&gt;" vertex="1">
+          <mxGeometry height="22" width="100" x="530" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-20" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: #c0392b&quot;&gt;《动力电池碳足迹申报工作》&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="240" x="30" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-21" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #555&quot;&gt;所有在中国境内销售的整定配额&gt;2KWh的动力电池必须申报碳足迹；&lt;br&gt;2027年1月起常态化管理；需第三方核查报告&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="585" x="42.5" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-22" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #c0392b&quot;&gt;2026年1月启动&lt;/font&gt;" vertex="1">
+          <mxGeometry height="22" width="100" x="537.5" y="239" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-23" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: #c0392b&quot;&gt;欧盟CBAM边境税&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="150" x="45" y="322" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-24" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #555&quot;&gt;2026年全面生效；钢铁、铝制车身、电池材料必须申报碳排放；&lt;br&gt;无法提供碳数据产品可能被纳入征收市场&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="575" x="47.5" y="348" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-25" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #c0392b&quot;&gt;2026年全面实施&lt;/font&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="535" y="326" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-26" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: #c0392b&quot;&gt;零碳工厂/绿色工厂&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="165" x="52.5" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-27" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: rgb(85, 85, 85);&quot;&gt;GB/T 36132-2025：能源系统占6分+产品碳足迹8分=14分；&lt;br&gt;江苏省：数字化碳账中心最高6分&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="500" x="52.5" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-28" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #c0392b&quot;&gt;申报刚票&lt;/font&gt;" vertex="1">
+          <mxGeometry height="22" width="67" x="544.5" y="408" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fff4;strokeColor=#27ae60;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="420" width="645" x="665" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-30" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font color=&quot;#1e8449&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;现有系统核心功能(已具备)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="300" x="837.5" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5f5e3;strokeColor=#27ae60;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: rgb(30, 132, 73);&quot;&gt;能源查询与检测&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 20px; color: rgb(85, 85, 85);&quot;&gt;实时采集电,水,燃气,蒸汽,光伏数据;多维度查询与历史溯源&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="300" x="684.5" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5f5e3;strokeColor=#27ae60;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;font color=&quot;#1e8449&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;能源消耗量与强度计算&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#555555&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;GB/T 2589折标计算;&lt;br&gt;单位产品/产值能耗自动计算&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="295" x="1000" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5f5e3;strokeColor=#27ae60;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: rgb(30, 132, 73);&quot;&gt;数据分析层&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#555555&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;用能结构,成本,能效分析;&lt;br&gt;AI智能推荐优化策略&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="300" x="683" y="258" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5f5e3;strokeColor=#27ae60;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;font color=&quot;#1e8449&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;能效圭表&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 20px; color: rgb(85, 85, 85);&quot;&gt;工序/设备/产品能效对标;&lt;br&gt;标杆差距分析与改进路径&lt;/font&gt;" vertex="1">
+          <mxGeometry height="82" width="295" x="1000" y="258" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5f5e3;strokeColor=#27ae60;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;font color=&quot;#1e8449&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;能流分析&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#555555&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;三级图展示能源流动全貌;&lt;br&gt;能源平衡与损失分析&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="300" x="685" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5f5e3;strokeColor=#27ae60;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: rgb(30, 132, 73);&quot;&gt;碳排放核酸&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#555555&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;组织碳/产品碳自动核算;&lt;br&gt;符合GB/T 32151标准&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="92" width="295" x="1004" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ebf5fb;strokeColor=#3498db;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="420" width="655" x="1325" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-38" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font color=&quot;#2471a3&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;汽车行业专属扩展功能&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="260" x="1522.5" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d6eaf8;strokeColor=#3498db;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: rgb(36, 113, 163);&quot;&gt;▸ 动车电池碳足迹申报&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#555555&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;对接工信部信息平台;自动填报活动数据;生成第三方核查报告&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="305" x="1345" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d6eaf8;strokeColor=#3498db;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: rgb(36, 113, 163);&quot;&gt;▸ 整车产品碳足迹&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 20px; color: rgb(85, 85, 85);&quot;&gt;从原材料-&amp;gt;零部件-&amp;gt;整车-&amp;gt;使用-&amp;gt;回收全生命周期LCA&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="305" x="1662.5" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d6eaf8;strokeColor=#3498db;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: rgb(36, 113, 163);&quot;&gt;▸ 供应链碳管理&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 20px; color: rgb(85, 85, 85);&quot;&gt;上游钢铝供应商数据采集与评价;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#555555&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;下游经销商/回收商碳协同&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="305" x="1345" y="262" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d6eaf8;strokeColor=#3498db;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: rgb(36, 113, 163);&quot;&gt;▸ 高耗能设备优化&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#555555&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;冲压/焊接/涂装/总装设备能效AI优化;机器人休眠节能&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="305" x="1662.5" y="258" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d6eaf8;strokeColor=#3498db;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: rgb(36, 113, 163);&quot;&gt;▸ 智能表计自动采集&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 20px; color: rgb(85, 85, 85);&quot;&gt;电表/水表/燃气表/蒸汽表/光伏表秒级采集;断网续联&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="305" x="1345" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d6eaf8;strokeColor=#3498db;align=left;verticalAlign=top;spacingLeft=8;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: rgb(36, 113, 163);&quot;&gt;▸ AI智能分析与预测&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#555555&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;负荷预测、碳排放预测、能效优化、异常检测&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="94" width="305" x="1665" y="366" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-45" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: #2c3e50&quot;&gt;汽车制造行业智能化能碳管理平台架构&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="420" x="777.5" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f8f5;strokeColor=#1abc9c;strokeWidth=1;dashed=0;" value="" vertex="1">
+          <mxGeometry height="200" width="315" x="16" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-47" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: #16a085&quot;&gt;数据采集层&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="28" width="100" x="111" y="628" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-48" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: rgb(85, 85, 85);&quot;&gt;•&amp;nbsp;&lt;span data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMiVFNiU5OSVCQSVFOCU4MyVCRCVFNyU5NCVCNSVFOCVBMSVBOCUyRiVFNiVCMCVCNCVFOCVBMSVBOCUyRiVFNyU4NyU4MyVFNiVCMCU5NCVFOCVBMSVBOCUyMiU3RCU1RCU3RCU1RA==&quot; style=&quot;white-space: pre;&quot;&gt;智能电表/水表/燃气表&lt;/span&gt;&lt;br&gt;•&amp;nbsp;&lt;span data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMiVFOCU5MiVCOCVFNiVCMSVCRCVFNiVCNSU4MSVFOSU4NyU4RiVFOCVBRSVBMSUyRiVFNSU4NSU4OSVFNCVCQyU4RiVFOCVBMSVBOCUyMiU3RCU1RCU3RCU1RA==&quot; style=&quot;white-space: pre;&quot;&gt;蒸汽流量计/光伏表&lt;/span&gt;&lt;br&gt;•&amp;nbsp;&lt;span data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMiVFNSU4NiVCMiVFNSU4RSU4QiUyRiVFNyU4NCU4QSVFNiU4RSVBNSUyRiVFNiVCNiU4MiVFOCVBMyU4NSVFOCVBRSVCRSVFNSVBNCU4NyUyMiU3RCU1RCU3RCU1RA==&quot; style=&quot;white-space: pre;&quot;&gt;冲压/焊接/涂装设备&lt;/span&gt;&lt;br&gt;•&amp;nbsp;&lt;span data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMiVFNyVBOSVCQSVFOCVCMCU4MyUyRiVFNyVBOSVCQSVFNSU4RSU4QiVFNiU5QyVCQSUyRiVFOSU5NCU4NSVFNyU4MiU4OSUyMiU3RCU1RCU3RCU1RA==&quot; style=&quot;white-space: pre;&quot;&gt;空调/空压机/锅炉&lt;/span&gt;&lt;br&gt;• MES/ERP/DCS系统对接&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="250" x="30" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ebf5fb;strokeColor=#3498db;strokeWidth=1;dashed=0;" value="" vertex="1">
+          <mxGeometry height="200" width="315" x="346" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-50" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: rgb(36, 113, 163);&quot;&gt;边缘计算层&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="421" y="619" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-51" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: rgb(85, 85, 85);&quot;&gt;• 协议转换 (Modbus/DL/T645)&lt;br&gt;• 数据预处理与清洗&lt;br&gt;• 本地缓存与断网续传&lt;br&gt;• 实时异常检测&lt;br&gt;• 设备能效边缘优化&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="290" x="358.5" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef9e7;strokeColor=#f39c12;strokeWidth=1;dashed=0;" value="" vertex="1">
+          <mxGeometry height="200" width="315" x="676" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-53" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: rgb(214, 137, 16);&quot;&gt;数据平台层&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="751" y="619" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-54" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: rgb(85, 85, 85);&quot;&gt;• 时序数据库(InfluxDB)&lt;br&gt;• 关系型数据库(PostgreSQL)&lt;br&gt;• 数据仓库 (ClickHouse)&lt;br&gt;• 区块链存证&lt;br&gt;• API网关/消息队列&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="280" x="703" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5eef8;strokeColor=#8e44ad;strokeWidth=1;dashed=0;" value="" vertex="1">
+          <mxGeometry height="200" width="315" x="1006" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-56" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: rgb(125, 60, 152);&quot;&gt;AI智能分析层&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="1066" y="619" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-57" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: rgb(85, 85, 85);&quot;&gt;• 负荷预测与优化调度&lt;br&gt;• 碳排放预测与预警&lt;br&gt;• 能效对标与差距分析&lt;br&gt;• 高耗能设备诊断&lt;br&gt;• 工艺参数AI优化&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="220" x="1026.5" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdedec;strokeColor=#e74c3c;strokeWidth=1;dashed=0;" value="" vertex="1">
+          <mxGeometry height="200" width="315" x="1336" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-59" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: rgb(192, 57, 43);&quot;&gt;业务服务层&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1411" y="619" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-60" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: rgb(85, 85, 85);&quot;&gt;&lt;br&gt;• 能耗监测/碳排核算&lt;br&gt;• 能效对标/能流分析&lt;br&gt;• 碳资产管理/碳核查&lt;br&gt;• 供应链碳管理&lt;br&gt;• 动力电池碳足迹申报&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="220" x="1350" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef5e7;strokeColor=#f39c12;strokeWidth=1;dashed=0;" value="" vertex="1">
+          <mxGeometry height="200" width="310" x="1666" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-62" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: rgb(214, 137, 16);&quot;&gt;展示交互层&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1741" y="619" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-63" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: rgb(85, 85, 85);&quot;&gt;&lt;br&gt;• 驾驶舱大屏&lt;br&gt;• Web管理端&lt;br&gt;• 移动APP&lt;br&gt;• 报表系统&lt;br&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="140" x="1685.5" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-64" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: #2c3e50&quot;&gt;核心功能解决方案&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="875" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f8f5;strokeColor=#1abc9c;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="160" width="478" x="42.5" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1abc9c;strokeColor=none;align=center;verticalAlign=middle;fontColor=#F2F9FC;" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;智装表计自动采爱&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="32" width="478" x="42.5" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-67" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;&lt;font color=&quot;#2c3e50&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;支持电、水、燃气、蒸汽、光伏全品类表计；&lt;br&gt;Modbus/DL/T645/CJ/T188多协议适配；&lt;br&gt;4G/5G/有线多通道上传；本地缓存≥7天&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="420" x="52.5" y="958" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef5e7;strokeColor=#f39c12;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="160" width="478" x="534.5" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f39c12;strokeColor=none;align=center;verticalAlign=middle;fontColor=#F2F9FC;" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;高耗能设备智能优化&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="32" width="478" x="534.5" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-70" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font color=&quot;#2c3e50&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;冲压机、焊接机器人、涂装线、空压机、锅炉等重&lt;br&gt;点设备能效监测；机器人休眠节能（单台节能&amp;gt;50%）&lt;br&gt;余热回收监控；工艺参数AI优化&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="500" x="544.5" y="958" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5eef8;strokeColor=#8e44ad;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="145" width="478" x="1026.5" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8e44ad;strokeColor=none;align=center;verticalAlign=middle;fontColor=#F2F9FC;" value="&lt;font style=&quot;color: rgb(242, 249, 252);&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;AI智能分折与预测&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="32" width="478" x="1026.5" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-73" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;&lt;font color=&quot;#2c3e50&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;基于LSTM/ARIMA的用能负荷预测；碳排放趋势预测；&lt;br&gt;能效对标自动分析；异常检测与分级告警；智能策&lt;br&gt;略推荐&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="510" x="1036.5" y="958" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ebf5fb;strokeColor=#3498db;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="145" width="474" x="1518.5" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3498db;strokeColor=none;align=center;verticalAlign=middle;fontColor=#F2F9FC;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;汽车产业链碳足迹&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="32" width="474" x="1518.5" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-76" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font color=&quot;#2c3e50&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;原材料（钢铝锂）→零部件（电池/电机）→整车制&lt;br&gt;造→销售使用→回收拆解；&lt;br&gt;符合ISO 14067/GB/T 24067；支撑欧盟CBAM申报&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="470" x="1528.5" y="958" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdedec;strokeColor=#e74c3c;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="160" width="478" x="42.5" y="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=none;align=center;verticalAlign=middle;fontColor=#F2F9FC;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;动力电池碳足迹申报&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="32" width="478" x="42.5" y="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-79" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font color=&quot;#2c3e50&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;自动采集电池生产活动数据；对接工信部碳足迹信&lt;br&gt;息平台；生成第三方核查报告；覆盖所有化学体系&lt;br&gt;（三元锂/磷酸铁锂）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="460" x="52.5" y="1123" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2c3e50;strokeColor=#1a252f;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="160" width="478" x="534.5" y="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#34495e;strokeColor=none;align=center;verticalAlign=middle;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: rgb(255, 255, 255);&quot;&gt;供应链碳管理&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="32" width="478" x="534.5" y="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-82" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font color=&quot;#ecf0f1&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;上游：钢铝供应商碳数据采集与评价；&lt;br&gt;下游：经销商/回收商碳协同；绿色采购制度；&lt;br&gt;供应商碳绩效分级管理&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="430" x="544.5" y="1123" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f8f5;strokeColor=#27ae60;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="160" width="478" x="1026.5" y="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#27ae60;strokeColor=none;align=center;verticalAlign=middle;fontColor=#F2F9FC;" value="&lt;font style=&quot;color: rgb(242, 249, 252);&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;零碳工厂支撑&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="32" width="478" x="1026.5" y="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-158" edge="1" parent="1" source="zJpfA9pac6PEQL0GheaK-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zJpfA9pac6PEQL0GheaK-73" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-85" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font color=&quot;#2c3e50&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;符合GB/T 36132-2025及江苏省零碳工厂建设指南；&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#2c3e50&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;数字化能碳管理中心12项功能全覆盖；&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#2c3e50&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;MRV全溯源；第三方核查支撑&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="480" x="1036.5" y="1123" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef9e7;strokeColor=#f1c40f;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="160" width="474" x="1518.5" y="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1c40f;strokeColor=none;align=center;verticalAlign=middle;fontColor=#F2F9FC;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;碳资产管理&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="32" width="474" x="1518.5" y="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-88" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font color=&quot;#2c3e50&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;碳配额全流程管理；CCER开发与核证；&lt;br&gt;碳交易辅助决策；履约预警；碳资产收益测算&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="420" x="1528.5" y="1123" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef9e7;strokeColor=#f39c12;strokeWidth=2;dashed=0;" value=" " vertex="1">
+          <mxGeometry height="450" width="963" x="16" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-90" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: rgb(214, 137, 16);&quot;&gt;实施路径&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="436" y="1305" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f5e5c3;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="939" x="28" y="1348" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-92" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 24px; color: #f39c12&quot;&gt;⭐&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="30" x="36" y="1358" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-93" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font color=&quot;#d68910&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;现场诊断&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="71" y="1353" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-95" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: rgb(85, 85, 85);&quot;&gt;摸排表计、能耗基线、碳排放现状、供应链结构&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="276" y="1353" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fef9e7;strokeColor=#f5e5c3;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="939" x="28" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-97" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 24px; color: #f39c12&quot;&gt;⭐&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="30" x="36" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-98" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: #d68910&quot;&gt;方案设计&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="71" y="1412" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-100" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: rgb(85, 85, 85);&quot;&gt;系统架构设计、硬件选型、网络规划、API对接方案&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="430" x="276" y="1405" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f5e5c3;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="939" x="28" y="1452" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-102" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 24px; color: #f39c12&quot;&gt;⭐&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="30" x="36" y="1462" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-103" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: rgb(214, 137, 16);&quot;&gt;系统部署&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="71" y="1457" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-105" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: rgb(85, 85, 85);&quot;&gt;采集网关安装、平台搭建、数据接入、边缘计算配置&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="440" x="276" y="1457" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fef9e7;strokeColor=#f5e5c3;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="939" x="28" y="1504" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-107" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 24px; color: #f39c12&quot;&gt;⭐&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="30" x="36" y="1514" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-108" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: #d68910&quot;&gt;对接调试&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="71" y="1516" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-110" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: rgb(85, 85, 85);&quot;&gt;MES/ERP/DCS系统对接、大唐系统API对接、数据校验&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="460" x="276" y="1509" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f5e5c3;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="939" x="28" y="1556" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-112" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 24px; color: #f39c12&quot;&gt;⭐&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="30" x="36" y="1566" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-113" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: #d68910&quot;&gt;AI模型训练&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="100" x="70" y="1568" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-115" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: rgb(85, 85, 85);&quot;&gt;负荷预测模型、能效优化模型、异常检测模型训练&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="420" x="280" y="1561" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fef9e7;strokeColor=#f5e5c3;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="939" x="28" y="1608" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-117" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 24px; color: #f39c12&quot;&gt;⭐&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="30" x="36" y="1618" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-118" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: #d68910&quot;&gt;运维支持&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="71" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-120" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: rgb(85, 85, 85);&quot;&gt;功能验证、数据准确性校验、用户培训、申报支撑&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="420" x="276" y="1613" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fff4;strokeColor=#27ae60;strokeWidth=2;dashed=0;" value="" vertex="1">
+          <mxGeometry height="450" width="976" x="996" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-122" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; color: #1e8449&quot;&gt;客户价值：从合规成本到资产收益&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="1276" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-123" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a9dfbf;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="952" x="1008" y="1348" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-124" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: #27ae60&quot;&gt;政策合规&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="70" x="1021" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-125" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #555&quot;&gt;满足绿色工厂/零碳工厂标准&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="180" x="1116" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-126" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #e74c3c&quot;&gt;获定政策红利补贴&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="120" x="1480" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-127" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #f39c12&quot;&gt;★★★★★&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="50" x="1896" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8f8f5;strokeColor=#a9dfbf;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="952" x="1008" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-129" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: #27ae60&quot;&gt;降本增效&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="70" x="1021" y="1412" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-130" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #555&quot;&gt;精准能耗监控+AI优化&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="160" x="1116" y="1412" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-131" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #e74c3c&quot;&gt;年可节约成本10-30%&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="130" x="1480" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-132" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #f39c12&quot;&gt;★★★★★&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="50" x="1896" y="1412" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a9dfbf;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="952" x="1008" y="1452" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-134" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: #27ae60&quot;&gt;出口壁垒&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="70" x="1021" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-135" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #555&quot;&gt;产品碳足迹认证+CBAM申报&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="170" x="1116" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-136" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #e74c3c&quot;&gt;规避欧美高关税壁垒&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="130" x="1480" y="1463" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-137" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #f39c12&quot;&gt;★★★★☆&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="50" x="1896" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8f8f5;strokeColor=#a9dfbf;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="952" x="1008" y="1504" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-139" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: #27ae60&quot;&gt;供应链合规&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="90" x="1021" y="1516" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-140" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #555&quot;&gt;绿色供应链×低碳管理&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="140" x="1136" y="1516" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-141" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #e74c3c&quot;&gt;满足主机厂要求&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="100" x="1480" y="1516" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-142" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #f39c12&quot;&gt;★★★★☆&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="50" x="1896" y="1516" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a9dfbf;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="952" x="1008" y="1556" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-144" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: #27ae60&quot;&gt;碳资产变现&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="90" x="1021" y="1568" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-145" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #555&quot;&gt;碳配额CCER交易&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="110" x="1136" y="1568" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-146" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #e74c3c&quot;&gt;减排量转化为收益&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="120" x="1480" y="1568" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-147" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #f39c12&quot;&gt;★★★☆☆&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="50" x="1896" y="1568" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e8f8f5;strokeColor=#a9dfbf;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="952" x="1008" y="1608" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-149" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: #27ae60&quot;&gt;品牌溢价&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="70" x="1021" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-150" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #555&quot;&gt;绿色工厂+绿色产品品牌&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="150" x="1116" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-151" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #e74c3c&quot;&gt;提升ESG评级与品牌价值&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="150" x="1480" y="1619" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-152" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #f39c12&quot;&gt;★★★★☆&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="50" x="1896" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f5e5c3;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="50" width="939" x="28" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-154" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 24px; color: #f39c12&quot;&gt;⭐&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="30" x="36" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-155" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: #d68910&quot;&gt;正式上线&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="71" y="1672" as="geometry" />
+        </mxCell>
+        <mxCell id="zJpfA9pac6PEQL0GheaK-157" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: rgb(85, 85, 85);&quot;&gt;系统正式交付、持续运营优化、迭代升级&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="350" x="276" y="1665" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
