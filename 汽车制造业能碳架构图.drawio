@@ -52,8 +52,8 @@
         <mxCell id="zJpfA9pac6PEQL0GheaK-17" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: rgb(192, 57, 43);&quot;&gt;工信部《2026年汽车标准化工作要点》&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="370" x="40" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="zJpfA9pac6PEQL0GheaK-18" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: #555&quot;&gt;加快汽车产品碳足迹核算、快标准研制；推进电动汽车、动力电池、&lt;br&gt;驱动电机产品碳足迹；整车企业碳排放；零碳工厂建设&lt;/font&gt;" vertex="1">
-          <mxGeometry height="42" width="585" x="40" y="182" as="geometry" />
+        <mxCell id="zJpfA9pac6PEQL0GheaK-18" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: rgb(85, 85, 85);&quot;&gt;加快汽车产品碳足迹核算、核算标准研制；推进电动汽车、动力电池、&lt;br&gt;驱动电机产品碳足迹；整车企业碳排放；零碳工厂建设&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="580" x="40" y="182" as="geometry" />
         </mxCell>
         <mxCell id="zJpfA9pac6PEQL0GheaK-19" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #c0392b&quot;&gt;2026年5月发布&lt;/font&gt;" vertex="1">
           <mxGeometry height="22" width="100" x="530" y="160" as="geometry" />
@@ -79,11 +79,11 @@
         <mxCell id="zJpfA9pac6PEQL0GheaK-26" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: #c0392b&quot;&gt;零碳工厂/绿色工厂&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="26" width="165" x="52.5" y="404" as="geometry" />
         </mxCell>
-        <mxCell id="zJpfA9pac6PEQL0GheaK-27" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: rgb(85, 85, 85);&quot;&gt;GB/T 36132-2025：能源系统占6分+产品碳足迹8分=14分；&lt;br&gt;江苏省：数字化碳账中心最高6分&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="500" x="52.5" y="440" as="geometry" />
+        <mxCell id="zJpfA9pac6PEQL0GheaK-27" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 18px; color: rgb(85, 85, 85);&quot;&gt;GB/T 36132-2025：能源系统占6分+产品碳足迹8分=14分；&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="500" x="52.5" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="zJpfA9pac6PEQL0GheaK-28" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: #c0392b&quot;&gt;申报刚票&lt;/font&gt;" vertex="1">
-          <mxGeometry height="22" width="67" x="544.5" y="408" as="geometry" />
+        <mxCell id="zJpfA9pac6PEQL0GheaK-28" parent="1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px; color: rgb(192, 57, 43);&quot;&gt;申报刚需&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="511.5" y="399" as="geometry" />
         </mxCell>
         <mxCell id="zJpfA9pac6PEQL0GheaK-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fff4;strokeColor=#27ae60;strokeWidth=2;dashed=0;" value="" vertex="1">
           <mxGeometry height="420" width="645" x="665" y="100" as="geometry" />
